@@ -1,3 +1,4 @@
+alert("Please enable your sound before browsing this website");
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
