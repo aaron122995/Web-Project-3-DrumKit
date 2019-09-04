@@ -1,4 +1,4 @@
-alert("Please enable your sound before browsing this website");
+alert("Please enable your speaker in your computer before browsing this website because this website contains audio");
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
