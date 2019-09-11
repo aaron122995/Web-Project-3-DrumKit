@@ -1,6 +1,3 @@
-// alert("Please enable your speaker in your computer before browsing this website because this website contains audio);
-// alert("Guide to the website: after you press ok to exit this dialogue,you can press the drum images by mouse click or press the corresponding alphabetical letters on the image by keyboard to play the drum sound");
-
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < numberOfDrumButtons; i++) {
 
