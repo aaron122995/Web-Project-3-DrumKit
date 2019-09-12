@@ -1,3 +1,5 @@
+alert("Please enable speaker when browsing this website");
+alert("Guide to this website:1. Try to experience the sound of the different drums shown by pressing the drum photos by mouse click or pressing the corresponding alphabetical keys shown on the photos by keyboard");
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < numberOfDrumButtons; i++) {
 
